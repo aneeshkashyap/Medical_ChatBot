@@ -1,0 +1,161 @@
+Question,Answer,Category
+What is fever,A temporary increase in body temperature often caused by infection.,General
+What is cardiovascular disease,A group of conditions affecting the heart and blood vessels including coronary artery disease and heart failure.,Cardiovascular
+What is blood pressure,The force of blood pushing against artery walls.,Cardiovascular
+What is anemia,A condition where the body lacks enough healthy red blood cells.,Blood
+Symptoms of dengue,"High fever, headache, joint pain, and skin rash.",Infectious Disease
+Symptoms of diabetes,"Frequent urination, increased thirst, fatigue, blurred vision.",Chronic Disease
+What is hypertension,A condition where blood pressure is consistently too high.,Cardiovascular
+What is cholesterol,A fatty substance found in the blood needed for cell building.,Cardiovascular
+What causes common cold,Viral infection affecting the upper respiratory tract.,Respiratory
+Symptoms of flu,"Fever, cough, sore throat, body aches, fatigue.",Respiratory
+What is dehydration,A condition where the body loses more fluids than it takes in.,General
+Symptoms of asthma,"Shortness of breath, wheezing, chest tightness.",Respiratory
+What is migraine,A neurological condition causing severe recurring headaches.,Neurology
+What is malaria,Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites.,Infectious Disease
+What causes malaria,Malaria is caused by Plasmodium parasites transmitted through the bite of infected female Anopheles mosquitoes.,Infectious Disease
+Symptoms of malaria,"Fever, chills, sweating, headache, nausea.",Infectious Disease
+What is obesity,Excess body fat that increases risk of health problems.,Lifestyle
+Symptoms of anemia,"Fatigue, weakness, pale skin, shortness of breath.",Blood
+What is vitamin deficiency,Lack of essential vitamins required for body function.,Nutrition
+Symptoms of food poisoning,"Nausea, vomiting, stomach cramps, diarrhea.",Digestive
+What is heart attack,Blocked blood flow to the heart muscle.,Cardiovascular
+Symptoms of heart attack,"Chest pain, shortness of breath, sweating.",Cardiovascular
+What is stroke,A condition where blood supply to part of the brain is interrupted.,Neurology
+Symptoms of stroke,"Sudden numbness, confusion, trouble speaking.",Neurology
+What is pneumonia,Infection that inflames air sacs in the lungs.,Respiratory
+Symptoms of pneumonia,"Cough, fever, chest pain, difficulty breathing.",Respiratory
+What is tuberculosis,A bacterial infection mainly affecting the lungs.,Infectious Disease
+Symptoms of tuberculosis,"Persistent cough, weight loss, night sweats.",Infectious Disease
+What is gastritis,Inflammation of the stomach lining.,Digestive
+Symptoms of gastritis,"Stomach pain, nausea, vomiting, bloating.",Digestive
+What is arthritis,Inflammation of joints causing pain and stiffness.,Musculoskeletal
+Symptoms of arthritis,"Joint pain, swelling, reduced movement.",Musculoskeletal
+What is conjunctivitis,Inflammation or infection of the eye conjunctiva.,Eye Health
+Symptoms of conjunctivitis,"Redness, itching, discharge from eyes.",Eye Health
+What is insomnia,Difficulty falling asleep or staying asleep.,Sleep Disorder
+Symptoms of insomnia,"Difficulty sleeping, fatigue, mood changes.",Sleep Disorder
+What is eczema,A skin condition causing itchy and inflamed patches.,Skin
+Symptoms of eczema,"Dry skin, itching, redness.",Skin
+What is skin problem,"Skin problems are disorders affecting the skin, such as eczema, fungal infections, acne, psoriasis, dermatitis, or allergic rashes.",Skin
+What causes skin problem,"Allergies, infections, fungal growth, irritants, hormonal changes, and autoimmune reactions.",Skin
+Symptoms of skin problem,"Itching, redness, dryness, swelling, scaling, blisters, or painful lesions.",Skin
+What is rashes,An area of irritated or swollen skin that can be red itchy bumpy or painful.,Skin
+What causes rashes,"Allergic reactions, heat, infections, medications, insect bites, and autoimmune skin disorders.",Skin
+Symptoms of rashes,"Redness, itching, bumps, burning sensation, scaling, or skin swelling.",Skin
+What is ringworm,Ringworm is a common fungal skin infection that causes ring-shaped itchy patches.,Skin
+What causes ringworm,Ringworm is caused by dermatophyte fungi and spreads by skin contact or contaminated objects and surfaces.,Skin
+Symptoms of ringworm,"Circular red scaly itchy patches, cracked skin, hair loss in affected scalp areas, and irritation.",Skin
+What is allergy,Immune system reaction to foreign substances.,Immune System
+Symptoms of allergy,"Sneezing, itching, swelling, rash.",Immune System
+What is thyroid disorder,"Thyroid disorder is a medical condition where the thyroid gland produces too much or too little thyroid hormone, affecting metabolism, energy, heart rate, and temperature regulation.",Endocrine
+What causes thyroid disorder,"Common causes include autoimmune thyroid disease (Hashimoto thyroiditis or Graves disease), iodine imbalance, thyroiditis, thyroid nodules, genetics, and certain medicines.",Endocrine
+Symptoms of thyroid disorder,"Fatigue, weight changes, sensitivity to cold or heat, hair thinning, mood changes, and irregular heartbeat.",Endocrine
+Symptoms of hypothyroidism,"Fatigue, weight gain, cold sensitivity.",Endocrine
+Symptoms of hyperthyroidism,"Weight loss, rapid heartbeat, nervousness.",Endocrine
+What is chickenpox,Chickenpox is a contagious viral infection caused by varicella-zoster virus.,Infectious Disease
+What causes chickenpox,Chickenpox is caused by the varicella-zoster virus and spreads through droplets or direct contact with blisters.,Infectious Disease
+Symptoms of chickenpox,"Fever, tiredness, loss of appetite, and itchy fluid-filled blisters progressing to scabs.",Infectious Disease
+What is typhoid,Typhoid is a bacterial infection caused by Salmonella Typhi affecting the intestines and bloodstream.,Infectious Disease
+What causes typhoid,Typhoid is caused by Salmonella Typhi through contaminated food or water and poor sanitation.,Infectious Disease
+Symptoms of typhoid,"Sustained high fever, weakness, abdominal pain, headache, constipation or diarrhea, and loss of appetite.",Infectious Disease
+What is kidney stone,Hard mineral deposits formed in kidneys.,Urinary
+Symptoms of kidney stone,"Severe pain in back or side, nausea.",Urinary
+What is liver disease,Damage or inflammation affecting liver function.,Digestive
+Symptoms of liver disease,"Jaundice, fatigue, abdominal swelling.",Digestive
+What is osteoporosis,Condition where bones become weak and brittle.,Musculoskeletal
+Symptoms of osteoporosis,"Back pain, bone fractures, loss of height.",Musculoskeletal
+What is COVID-19,Respiratory disease caused by SARS-CoV-2 virus.,Infectious Disease
+Symptoms of COVID-19,"Fever, cough, loss of taste or smell.",Infectious Disease
+What is balanced diet,Diet containing proper proportions of nutrients.,Nutrition
+Why is exercise important,Exercise improves heart health and overall fitness.,Lifestyle
+What is ulcer,A sore that develops on the lining of the stomach or small intestine.,Digestive
+What causes ulcer,"Infection with H. pylori bacteria, long-term use of NSAIDs, and excess stomach acid.",Digestive
+Symptoms of ulcer,"Burning stomach pain, nausea, bloating, heartburn, and dark or tarry stools.",Digestive
+What is depression,A mental health disorder characterised by persistent sadness and loss of interest in daily activities.,Mental Health
+What causes depression,"Genetics, chemical imbalances in the brain, stress, trauma, chronic illness, and life events such as loss or abuse.",Mental Health
+Symptoms of depression,"Persistent sadness, hopelessness, fatigue, loss of interest, sleep disturbances, poor concentration, and thoughts of self-harm.",Mental Health
+What is anxiety disorder,A mental health condition marked by excessive fear or worry that interferes with daily life.,Mental Health
+What causes anxiety disorder,"Genetic factors, brain chemistry, personality traits, stress, trauma, and prolonged exposure to stressful situations.",Mental Health
+Symptoms of anxiety disorder,"Excessive worry, restlessness, rapid heartbeat, sweating, trembling, difficulty concentrating, and sleep problems.",Mental Health
+What is bipolar disorder,A mental health condition causing extreme mood swings including emotional highs (mania) and lows (depression).,Mental Health
+What causes bipolar disorder,"Genetics, brain structure abnormalities, hormonal imbalance, and major life stressors or trauma.",Mental Health
+Symptoms of bipolar disorder,"Extreme mood swings, impulsive behaviour, elevated energy during mania, deep sadness during depression, reduced need for sleep.",Mental Health
+What is schizophrenia,A severe mental disorder affecting how a person thinks feels and behaves often losing touch with reality.,Mental Health
+What causes schizophrenia,"Genetic predisposition, brain chemistry imbalance, prenatal exposure to viruses, and psychosocial stressors.",Mental Health
+Symptoms of schizophrenia,"Hallucinations, delusions, disorganised thinking, flat affect, social withdrawal, and difficulty with daily functioning.",Mental Health
+What is OCD,Obsessive-compulsive disorder (OCD) is a mental health condition marked by intrusive thoughts (obsessions) and repetitive behaviors (compulsions).,Mental Health
+What causes OCD,"Brain abnormalities, genetics, serotonin imbalance, stress, and traumatic life events.",Mental Health
+Symptoms of OCD,"Intrusive unwanted thoughts, repetitive rituals, excessive cleaning or checking, intense anxiety when rituals are not performed.",Mental Health
+What is PTSD,Post-traumatic stress disorder (PTSD) is a trauma-related psychiatric condition that can develop after experiencing or witnessing a traumatic event.,Mental Health
+What causes PTSD,"Exposure to trauma such as war, assault, accidents, natural disasters, or prolonged abuse.",Mental Health
+Symptoms of PTSD,"Flashbacks, nightmares, severe anxiety, emotional numbness, avoidance of trauma reminders, and heightened startle response.",Mental Health
+What is ADHD,"Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental condition characterized by persistent inattention, hyperactivity, and impulsivity.",Mental Health
+What causes ADHD,"Genetics, brain development differences, premature birth, low birth weight, and exposure to environmental toxins.",Mental Health
+Symptoms of ADHD,"Inattention, hyperactivity, impulsiveness, difficulty organising tasks, forgetfulness, and trouble following instructions.",Mental Health
+What is panic disorder,A mental health condition characterised by sudden recurring panic attacks and intense fear without apparent danger.,Mental Health
+What causes panic disorder,"Genetics, major stress, traumatic events, excess caffeine, and overactivity of the amygdala in the brain.",Mental Health
+Symptoms of panic disorder,"Sudden intense fear, racing heart, chest pain, shortness of breath, dizziness, sweating, and fear of losing control.",Mental Health
+What is eating disorder,A range of mental health conditions with abnormal eating habits that negatively affect health and wellbeing.,Mental Health
+What causes eating disorder,"Low self-esteem, societal pressure, genetics, trauma, anxiety, depression, and perfectionism.",Mental Health
+Symptoms of eating disorder,"Extreme restriction of food intake or overeating, distorted body image, obsessive thoughts about food, weight loss or gain, fatigue.",Mental Health
+What causes Allergy,"Allergy may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Immune System
+What causes Anemia,"Anemia may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Blood
+What causes Arthritis,"Arthritis may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Musculoskeletal
+What is Asthma,Asthma is a chronic inflammatory airway disease that causes reversible narrowing of the airways and difficulty breathing.,Respiratory
+What causes Asthma,"Asthma is caused by chronic airway inflammation and hyperreactivity, often triggered by allergens, viral infections, exercise, smoke, cold air, or pollution in genetically susceptible people.",Respiratory
+What causes Balanced Diet,"A balanced diet is not a disease, so a disease cause is not applicable. It means eating adequate carbohydrates, proteins, fats, vitamins, minerals, fiber, and water in proper proportions.",Nutrition
+Symptoms of Balanced Diet,"Common symptoms may include fatigue, weakness, poor concentration, and condition-specific signs.",Nutrition
+What causes Blood Pressure,"Blood Pressure may be linked to genetics, high blood pressure, high cholesterol, diabetes, smoking, or unhealthy lifestyle factors.",Cardiovascular
+Symptoms of Blood Pressure,"Common symptoms may include chest discomfort, breathlessness, fatigue, dizziness, or palpitations.",Cardiovascular
+What causes Cardiovascular Disease,"Cardiovascular Disease may be linked to genetics, high blood pressure, high cholesterol, diabetes, smoking, or unhealthy lifestyle factors.",Cardiovascular
+Symptoms of Cardiovascular Disease,"Common symptoms may include chest discomfort, breathlessness, fatigue, dizziness, or palpitations.",Cardiovascular
+What causes Cholesterol,"Cholesterol may be linked to genetics, high blood pressure, high cholesterol, diabetes, smoking, or unhealthy lifestyle factors.",Cardiovascular
+Symptoms of Cholesterol,"Common symptoms may include chest discomfort, breathlessness, fatigue, dizziness, or palpitations.",Cardiovascular
+What is Common Cold,"Common cold is a mild viral upper respiratory tract infection, most often caused by rhinoviruses.",Respiratory
+Symptoms of Common Cold,"Sneezing, runny or blocked nose, sore throat, mild cough, watery eyes, low-grade fever, and mild body discomfort.",Respiratory
+What causes Conjunctivitis,"Conjunctivitis may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Eye Health
+What causes Covid-19,"Covid-19 is caused by infection and may spread through vectors, contact, droplets, food, or contaminated environments.",Infectious Disease
+What causes Dehydration,"Dehydration may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",General
+Symptoms of Dehydration,"Symptoms vary and may include discomfort, weakness, and other condition-specific signs.",General
+What is Dengue,Dengue is a mosquito-borne viral infection caused by the dengue virus and transmitted by Aedes mosquitoes.,Infectious Disease
+What causes Dengue,"Dengue is caused by infection and may spread through vectors, contact, droplets, food, or contaminated environments.",Infectious Disease
+What is Diabetes,"Diabetes is a chronic metabolic disorder in which blood glucose remains high due to insufficient insulin production, insulin resistance, or both.",Chronic Disease
+What causes Diabetes,"Diabetes may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Chronic Disease
+What causes Eczema,"Eczema is caused by a combination of skin barrier dysfunction, immune overreaction, genetic predisposition, and triggers like irritants, allergens, dry weather, stress, or infections.",Skin
+What causes Fever,"Fever may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",General
+Symptoms of Fever,"Symptoms vary and may include discomfort, weakness, and other condition-specific signs.",General
+What is Flu,Flu (influenza) is an acute viral respiratory infection caused by influenza A or B viruses.,Respiratory
+What causes Flu,Flu is caused by infection with influenza viruses (mainly influenza A and B) spread through respiratory droplets and contaminated surfaces.,Respiratory
+What is Food Poisoning,Food poisoning is an acute illness caused by consuming food or water contaminated with infectious organisms or their toxins.,Digestive
+What causes Food Poisoning,"Food poisoning is caused by consuming food or water contaminated with bacteria, viruses, parasites, or toxins, commonly due to poor food handling or storage.",Digestive
+What causes Gastritis,"Gastritis is commonly caused by Helicobacter pylori infection, frequent NSAID use, alcohol, severe stress, bile reflux, or autoimmune inflammation of the stomach lining.",Digestive
+What causes Heart Attack,"Heart Attack may be linked to genetics, high blood pressure, high cholesterol, diabetes, smoking, or unhealthy lifestyle factors.",Cardiovascular
+What causes Hypertension,"Hypertension may be linked to genetics, high blood pressure, high cholesterol, diabetes, smoking, or unhealthy lifestyle factors.",Cardiovascular
+Symptoms of Hypertension,"Common symptoms may include chest discomfort, breathlessness, fatigue, dizziness, or palpitations.",Cardiovascular
+What is Hyperthyroidism,"Hyperthyroidism is a disorder of excess thyroid hormone production, commonly due to Graves disease, leading to increased metabolic activity.",Endocrine
+What causes Hyperthyroidism,"Frequent causes are Graves disease, toxic multinodular goiter, toxic adenoma, thyroiditis, and excessive thyroid hormone medication.",Endocrine
+What is Hypothyroidism,"Hypothyroidism is a disorder of insufficient thyroid hormone production, causing a slowed metabolic state.",Endocrine
+What causes Hypothyroidism,"Common causes include Hashimoto thyroiditis, iodine deficiency, thyroid surgery or radioiodine treatment, thyroiditis, and certain medications.",Endocrine
+What causes Insomnia,"Insomnia may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Sleep Disorder
+What causes Kidney Stone,"Kidney Stone may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Urinary
+What causes Liver Disease,"Liver disease can be caused by viral hepatitis, alcohol misuse, nonalcoholic fatty liver disease, metabolic disorders, autoimmune disease, toxins, or certain medications.",Digestive
+What causes Migraine,"Migraine may be associated with vascular changes, nerve dysfunction, genetics, infection, or other neurological triggers.",Neurology
+Symptoms of Migraine,"Common symptoms may include headache, weakness, sensory changes, dizziness, or coordination issues.",Neurology
+What causes Obesity,"Obesity may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Lifestyle
+Symptoms of Obesity,"Symptoms vary and may include discomfort, weakness, and other condition-specific signs.",Lifestyle
+What causes Osteoporosis,"Osteoporosis may be triggered by infection, inflammation, environmental factors, or underlying medical conditions.",Musculoskeletal
+What causes Pneumonia,"Pneumonia is caused by infection of the lungs by bacteria, viruses, or fungi, with higher risk in older adults, smokers, and people with weak immunity.",Respiratory
+What causes Stroke,"Stroke may be associated with vascular changes, nerve dysfunction, genetics, infection, or other neurological triggers.",Neurology
+What causes Tuberculosis,"Tuberculosis is caused by infection and may spread through vectors, contact, droplets, food, or contaminated environments.",Infectious Disease
+What causes Vitamin Deficiency,"Vitamin deficiency is caused by poor dietary intake, malabsorption disorders, increased body requirements, chronic illness, alcoholism, or certain medications.",Nutrition
+Symptoms of Vitamin Deficiency,"Common symptoms may include fatigue, weakness, poor concentration, and condition-specific signs.",Nutrition
+What is skin disorder,"A skin disorder is a medical condition affecting the skin barrier, structure, or immune response, including inflammatory, infectious, allergic, and autoimmune diseases.",Skin
+What causes skin disorder,"Skin disorders can be caused by allergies, infections, immune dysfunction, irritants, genetics, hormonal factors, or environmental triggers.",Skin
+Symptoms of skin disorder,"Symptoms may include itching, redness, rashes, scaling, dryness, blisters, swelling, or painful skin lesions.",Skin
+What is PCOD,"PCOD (Polycystic Ovarian Disease) is a commonly used term; in modern medical terminology, most cases are classified under PCOS (Polycystic Ovary Syndrome), a hormonal and metabolic disorder with ovulation dysfunction.",Endocrine
+What causes PCOD,"PCOD/PCOS is associated with insulin resistance, androgen excess, genetic predisposition, weight gain, and lifestyle-metabolic factors that disrupt ovulation.",Endocrine
+Symptoms of PCOD,"Irregular or missed periods, acne, weight gain, excess facial/body hair, scalp hair thinning, and ovulation-related fertility issues.",Endocrine
+What is PCOS,"PCOS (Polycystic Ovary Syndrome) is a hormonal-metabolic syndrome characterized by ovulatory dysfunction, androgen excess, and sometimes polycystic ovarian morphology.",Endocrine
+What causes PCOS,"PCOS is caused by multifactorial mechanisms including insulin resistance, hyperandrogenism, genetic susceptibility, chronic low-grade inflammation, and metabolic dysfunction.",Endocrine
+Symptoms of PCOS,"Irregular periods, acne, hirsutism (excess hair growth), weight gain, scalp hair thinning, and difficulty conceiving due to irregular ovulation.",Endocrine
